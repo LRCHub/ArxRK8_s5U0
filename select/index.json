@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "眩耀夜行",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2025-12-03T11:10:25.625292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "眩耀夜行",
+      "artist": "スリーズブーケ",
+      "has_synced": true,
+      "path": "select/01_眩耀夜行_スリーズブーケ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眩耀夜行",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_眩耀夜行_スリーズブーケ.txt"
+    }
+  ]
+}
